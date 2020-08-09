@@ -15,5 +15,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/anders fjetland fredriksen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anders fjetland fredriksen" height="20" width="20" /></a>
-<a href="https://kaggle.com/anderf2706@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="andersfredriksen" height="20" width="20" /></a>
+<a href="https://kaggle.com/andersfredriksen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="andersfredriksen" height="20" width="20" /></a>
 </p>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anders Fredriksen</h1>
+<h1 align="center">Anders Fredriksen</h1>
 <h3 align="center">MSc Engineering and ICT at NTNU, 3rd year | Mechanical engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anderf2706" alt="anderf2706" /> </p>

@@ -1,11 +1,11 @@
 <h1 align="center">Anders Fredriksen</h1>
-<h3 align="center">MSc Engineering and ICT at NTNU, 3rd year | Mechanical engineering</h3>
+<h3 align="center">MSc Engineering and ICT at NTNU, 4rd year | Mechanical engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anderf2706" alt="anderf2706" /> </p>
 
-- 🔭 I’m currently working on **CM4Smart/Fruitylyzer**
+- 🔭 I’m currently working on **CM4Smart/Pneumonia classifer**
 
-- 🌱 I’m currently learning **pyTorch/fast ai, Kotlin**
+- 🌱 I’m currently learning **pyTorch/fast ai, Kotlin, React native**
 
 - 👨‍💻 All of my projects are available at [andersf.no](andersf.no)
 

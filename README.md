@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anderf2706" alt="anderf2706" /> </p>
 
-- 🔭 I’m currently working on **AutoBoat/Pneumonia classifer**
+- 🔭 I’m currently working on **AutoBoat**
 
 - 🌱 I’m currently learning **pyTorch/fast ai, Unity, React native**
 
